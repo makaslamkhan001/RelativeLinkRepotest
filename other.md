@@ -5,7 +5,11 @@
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
-	
+
+
+![Example screenshot](./img/screenshot.png)
+
+
 ## Technologies
 Project is created with:
 * Lorem version: 12.3
