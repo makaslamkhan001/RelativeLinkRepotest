@@ -6,7 +6,7 @@
 ## General info
 This project is simple Lorem ipsum dolor generator.
 
-
+##Screenshotts
 ![Example screenshot](./img/screenshot.png)
 
 
